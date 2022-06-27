@@ -1,0 +1,44 @@
+body{
+    font-family: 'Nunito', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+.post{background: white;
+width: 400px;
+height: auto;
+margin: auto;}
+.publicacion{ margin: 0em; padding: 0em;}
+.header{
+padding: 0.8em; height: auto;
+display: flex; margin: 0em;}
+
+.icons{height: 2.5em;}
+.heart{
+    width: 1.5em;
+    height: 1.5em;
+}
+.comentario, .guardar{ width: 1.5em; height: 1.5em;
+}
+.enviar{
+    width: 1.5em;
+    height: 1.5em;
+}
+.descripcion{
+height: auto;}
+.guardar{float: right;}
+.icons, .likes, .descripcion{padding: 0.8em;}
+.likes, .descripcion, .header{font-size: small;}
+.likes, .descripcion{padding-top: 0em;}
+.likes, .icons{padding-bottom: 0em;}
+.usuario, .usuario2{padding: auto;}
+.logo{width: 1.5em;
+    height: 1.5em;}
+.point{ width: 1.5em;
+    height: 1.5em;}
+.puntos{float: right;}
+.nombre{width: 350px;}
+.nombre1, .nombre2{padding: 0em;}
+.p1, .p2{margin: 0em; text-align: left;}
+.p1{margin-bottom: 0.1em;}
+.usuario{text-align: center;}
